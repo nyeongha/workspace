@@ -1,0 +1,16 @@
+package oop.class06;
+
+public class ThisMethod_2 {
+	A a1=new A();
+	A a1=new A(10);
+	A a1=new A(10,20);
+	
+	a1.print()
+	a2.print()
+	a3.print()
+	
+	B b1=new B();
+	B b1=new B(10);
+	B b1=new B(10,20);
+
+}

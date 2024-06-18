@@ -1,0 +1,12 @@
+package basic07.method;
+
+public class ExternalCallMathods {
+	
+
+}
+
+class A{
+	void print() {
+		System.out.println("안녕");
+	}
+}

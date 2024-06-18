@@ -1,0 +1,5 @@
+package oop06.static03;
+
+public class StaticInitialBlock {
+
+}

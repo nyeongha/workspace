@@ -1,0 +1,28 @@
+package oop.class06;
+
+public class B {
+	int m1,m2,m3,m4;
+	B(){
+		m1=1;
+		m2=2;
+		m3=3;
+		m4=4;
+	}
+	B(int a){
+		this();
+		m1=a;
+		
+	}
+	B(int a,int b){
+		this(a);
+		m2=b;
+	}
+	void print() {
+		System.out.print(m1+" ");
+		System.out.print(m2+" ");
+		System.out.print(m3+" ");
+		System.out.print(m4+" ");
+	}
+	
+
+}

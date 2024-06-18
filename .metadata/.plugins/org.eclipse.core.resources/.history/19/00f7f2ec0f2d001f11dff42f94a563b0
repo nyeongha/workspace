@@ -1,0 +1,8 @@
+package Control01;
+
+class A {
+	void abc() {
+		
+	}
+
+}

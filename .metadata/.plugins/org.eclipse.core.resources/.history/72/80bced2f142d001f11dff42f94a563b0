@@ -1,0 +1,15 @@
+package Control03;
+
+public class ShpaeTEst {
+	public static void main(String[] args) {
+		Circle c= new Circle();
+		Rectangle r= new Rectangle();
+		Triangle t= new Triangle();
+		
+		printArea(c);
+	}
+	private static void printArea(Circle c) {
+		c.area();
+	}
+
+}

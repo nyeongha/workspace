@@ -1,0 +1,6 @@
+package oop.class06;
+
+public class ThisMethod_2 {
+	A a1=new A();
+
+}

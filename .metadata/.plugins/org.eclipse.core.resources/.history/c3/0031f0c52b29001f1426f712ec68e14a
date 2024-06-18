@@ -1,0 +1,20 @@
+package oop.class01;
+
+public class Point2DTest {
+	public static void main(String[] args) {
+		
+		Point2D pt1=new Point2D();
+		pt1.print();
+		
+		
+//		Point3D pt=new Point3D();
+//		pt.setX(1);
+//		pt.setY(2);
+//		pt.setZ(3);
+//		
+//		pt.print();
+		
+		
+	}
+
+}

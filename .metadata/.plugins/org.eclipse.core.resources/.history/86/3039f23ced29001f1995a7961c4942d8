@@ -1,0 +1,10 @@
+package oop.class3;
+
+public class Point3D extends Point2{
+	int z;
+	public void test() {
+		System.out.println(x);
+	}
+	
+
+}

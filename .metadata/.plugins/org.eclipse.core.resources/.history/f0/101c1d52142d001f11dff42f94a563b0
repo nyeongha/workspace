@@ -1,0 +1,9 @@
+package Control03;
+
+class Circle extends Shape {
+	void area() {
+		int r=10;
+		System.out.println(3.14*r*r);
+	}
+
+}

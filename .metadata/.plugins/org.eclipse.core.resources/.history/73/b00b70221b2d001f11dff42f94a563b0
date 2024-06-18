@@ -1,0 +1,14 @@
+package Control05;
+
+class AbstarctClass {
+
+	public static void main(String[] args) {
+
+		A a1=new A() {
+			void abc() {
+				System.out.println("방법2. 익명 이너 클래스 바법으로 개겣 생성");
+			}
+		}
+	}
+
+}

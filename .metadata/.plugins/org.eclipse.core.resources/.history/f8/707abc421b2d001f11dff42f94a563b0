@@ -1,0 +1,5 @@
+package Control05;
+
+abstract class A {
+
+}

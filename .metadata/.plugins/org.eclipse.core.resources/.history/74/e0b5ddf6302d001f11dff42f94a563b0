@@ -1,0 +1,19 @@
+package Control07;
+
+public class TVUser {
+	public static void main(String[] args) {
+		LgTV tv=new LgTV();
+		tv.turnOn();
+		tv.channelDown();
+		tv.channelUp();
+		tv.channelUp();
+		tv.channelUp();
+		tv.soundUp();
+		tv.soundUp();
+		tv.soundDown();
+		tv.soundUp();
+		tv.turnOff();
+		
+	}
+
+}

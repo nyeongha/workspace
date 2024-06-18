@@ -1,0 +1,52 @@
+package oop07.method;
+
+public class DefaultConstructor {
+	
+	class AC{
+		int m;
+		void work() {
+			System.out.println(m);
+		}
+		AC(){
+			
+		}
+		
+	}
+	
+	class B{
+		int m;
+		void work() {
+			System.out.println(m);
+		}
+		B(){
+			
+		}
+	}
+	class C{
+		int m;
+		void work() {
+			System.out.println(m);
+		}
+		C(int a){
+			m=a;
+		}
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		AC ac= new AC();
+		B b= new B();
+		C c= new C(3);
+		
+		ac.work();
+		b.work();
+		c.work();
+		
+		
+	}
+
+}

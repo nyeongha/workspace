@@ -1,0 +1,11 @@
+package oop06.static01;
+
+public class AccountTest {
+	public static void main(String[] args) {
+		Account ac=new Account(10000);
+		System.out.println("acc1.money1:"+ac.money1);
+		System.out.println("acc1.money2:"+ac.money2);
+		
+	}
+
+}

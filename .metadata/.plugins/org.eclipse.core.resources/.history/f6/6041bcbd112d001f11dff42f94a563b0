@@ -1,0 +1,7 @@
+package Control02;
+
+abstract class Animal {
+	void cry() {
+	}
+
+}

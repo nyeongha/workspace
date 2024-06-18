@@ -1,0 +1,6 @@
+package oop09.interface09;
+
+public class InterfaceC extends InterfaceA,InterfaceB{
+	public void methodC();
+	
+}

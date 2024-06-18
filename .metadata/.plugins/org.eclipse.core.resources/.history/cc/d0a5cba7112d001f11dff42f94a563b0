@@ -1,0 +1,5 @@
+package Control02;
+
+class Dog extends Animal {
+
+}

@@ -1,0 +1,6 @@
+package Control03;
+
+abstract public class Shape {
+	abstract void area();
+
+}

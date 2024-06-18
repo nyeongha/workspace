@@ -1,0 +1,13 @@
+package Control06;
+
+abstract public class Phone {
+	String owner;
+	public void turnOn() {
+		
+	}
+	public void turnOff() {
+		
+	}
+	public abstract void internetSerach();
+
+}

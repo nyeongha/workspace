@@ -1,0 +1,12 @@
+package oop03.external;
+
+import basic.A;
+
+public class PackageTest01 {
+	public static void main(String[] args) {
+		A a=new A();
+		System.out.println(a.n);
+		System.out.println(a.print());
+	}
+
+}

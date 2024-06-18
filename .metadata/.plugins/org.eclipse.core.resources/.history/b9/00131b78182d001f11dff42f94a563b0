@@ -1,0 +1,19 @@
+package Control03;
+
+public class ShpaeTEst {
+	public static void main(String[] args) {
+		
+		printArea(new Circle());
+		printArea(new Triangle());
+		printArea(new Rectangle());
+	}
+	private static void printArea(Shape s) {
+		s.area();
+		if(s instanceof Circle) {
+			Circle c=(Circle) s;
+		}
+		
+	}
+	
+
+}

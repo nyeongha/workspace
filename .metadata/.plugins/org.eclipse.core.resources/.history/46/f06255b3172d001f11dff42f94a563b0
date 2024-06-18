@@ -1,0 +1,10 @@
+package Control03;
+
+class Triangle extends Shape {
+	int w=10;
+	int h=5;
+	void area() {
+		System.out.println("삼각형의 넓이는"+w*h/2);
+	}
+
+}

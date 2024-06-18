@@ -1,0 +1,11 @@
+package Control04;
+
+class B extends A {
+
+	@Override
+	void abc() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

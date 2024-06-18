@@ -1,0 +1,5 @@
+package Control01;
+
+public sealed class B {
+
+}
